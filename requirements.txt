@@ -1,0 +1,10 @@
+streamlit>=1.28.0
+langchain-core>=0.1.0
+langgraph>=0.0.30
+langchain-community>=0.0.20
+langchain-google-genai>=2.0.0
+sentence-transformers>=2.2.0
+faiss-cpu>=1.7.4
+numpy>=1.24.0
+pypdf>=4.0.0
+python-dotenv>=1.0.0
